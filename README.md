@@ -1,6 +1,6 @@
 # cuq.in Free URL Shortener API
 
-The cuq.in API allows you to easily shorten long URLs. To get a free API key, please visit cuq.in and sign up for an account. Once registered, you will receive your apiKey instantly.
+The cuq.in API allows you to easily shorten long URLs. To get a free API key, please visit **[https://cuq.in](url)** and sign up for an account. Once registered, you will receive your apiKey instantly.
 
 ## API Actions
 
